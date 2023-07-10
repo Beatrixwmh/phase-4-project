@@ -1,1 +1,2 @@
-# phase-4-project
+# Classification of tweets based on sentiment 
+## Project Overview
