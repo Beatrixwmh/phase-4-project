@@ -18,6 +18,7 @@ Moreover, since the data has very strong class imbalance, with roughly 60% of tw
 ## The final model
 My final model takes in features mentioned above, and is a support vector machine, which takes in the data points with thier corresponding features and finds the best line of seperation between the data points in order to classify them into one sentiment or the other. Shown below is an example of how the model classifies unseen data. <br/>
 ![image](https://github.com/Beatrixwmh/phase-4-project/assets/108293459/22ef41ab-1d0c-4534-8dfb-f2c527e8357e)
+
 This model has an accuracy of around 72 %, meaning it identifies 72% of the data correctly. Moreover, it is able to recognize around 60% of positive tweets and 80% of non-positive tweets, in other words, if twitter were to use this model to sort tweets and find the ones expressing positive sentiments, it would be able to capture 60% of them.
 ## Recommendations
 I would recommend the advertising team to use this model to assist them in looking for positive tweets to get a guage of what the twitter userbase likes about certain products. However, since the model still has a relatively low precision and misidentifies a neutral or negative sentiment for a positive one 40% of the time, I would advise them to use more sorting tools to further weed out true positives.
