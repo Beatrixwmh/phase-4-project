@@ -28,11 +28,11 @@ Moreover, I could work on expanding this model into a multi-class classifier by 
 Please review our full analysis in the [github repository](https://github.com/Beatrixwmh/phase-4-project) or [my presentation].
 For any additional questions, please contact Beatrix Wong, beatrix.wmh@hotmail.com
 
-Repository Structure
+## Repository Structure
+```
 ├── README.md                           <- The top-level README for reviewers of this project
 ├── ph_4_proj.ipynb                     <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
+├── phase-4-presentation.pdf            <- PDF version of project presentation
 ├── sentiments.csv                      <- Both sourced externally and generated from code
 └── images (.png)                       <- Both sourced externally and generated from code
-
-
+```
