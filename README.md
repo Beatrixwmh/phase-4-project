@@ -26,7 +26,7 @@ I would recommend the advertising team to use this model to assist them in looki
 To further improve this model, I could look into more features unique to each class and add it to the training data, like the amount of capitalizations or emoticons used in a tweet. Considering the many preprocessing steps required to prepare the data for the model, I could also work on building pipelines to streamline the process of implementation. <br/>
 Moreover, I could work on expanding this model into a multi-class classifier by increasing the size of my database and obtaining more tweets with negative sentiments such that the model can also identify negative sentiments well. 
 ## For More Information
-Please review our full analysis in the [github repository](https://github.com/Beatrixwmh/phase-4-project) or [my presentation].
+Please review our full analysis in the [github repository](https://github.com/Beatrixwmh/phase-4-project) or [my presentation](https://github.com/Beatrixwmh/phase-4-project/blob/main/phase-4-presentation.pdf).
 For any additional questions, please contact Beatrix Wong, beatrix.wmh@hotmail.com
 
 ## Repository Structure
